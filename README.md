@@ -1,2 +1,2 @@
 # SLUM
-XRPL Crypto (not a rugpull ong ong no cap on a stack)
+Concept and basic code for a crypto built on the XRP ledger. Can be launched at any time.
